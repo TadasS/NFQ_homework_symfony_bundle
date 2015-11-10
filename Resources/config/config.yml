@@ -1,0 +1,3 @@
+services:
+    tadas_weather_report:
+        class: TadasSiaudvytis\WeatherBundle\TadasSiaudvytisWeatherBundle
